@@ -1,0 +1,4 @@
+node_modules/
+vs/
+# I used visual studio in root account. So, it created a user
+data/
